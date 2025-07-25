@@ -1,4 +1,4 @@
-### Hope Kim
+### Hope Kim. (Software Engineer)
 
 [https://rlaope.introduce.dev](https://www.notion.so/rlaope/Hope-Kim-23182c973cdc80439a88d823268a9b9a)
 
