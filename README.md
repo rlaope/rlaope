@@ -4,8 +4,7 @@ I work at a vertical AI fintech company, developing a BaaS platform across savin
 
 Since 2014, I’ve pursued computing with passion — from console games to nationwide SaaS and government platforms.
 
-I focus on sustainable 80+ quality software, balancing trade-offs over perfection.
-
-My growth path is self-driven, aligning personal direction with meaningful work.
+- [Contact](mailto:piyrw9754@gmail.com)
+- [About Me](https://rlaope.notion.site/Hope-Kim-23182c973cdc80439a88d823268a9b9a?pvs=74)
 
 
