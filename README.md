@@ -4,7 +4,9 @@ I work at a vertical AI fintech company, developing a BaaS platform.
 
 Since 2014, I’ve been on my computer journey, starting as a child drawn to console.
 
+I pursue stable s/w with the best decisions and thoughtful compromises.
+
 - [Contact](mailto:piyrw9754@gmail.com)
-- [About Me](https://rlaope.notion.site/Hope-Kim-23182c973cdc80439a88d823268a9b9a?pvs=74)
+- [About Me](https://cheerful-icicle-8c1.notion.site/Hope-Kim-25a253c5458a80958ccfcb0bda00ef21?pvs=74)
 
 
