@@ -6,6 +6,8 @@ Since 2014, I’ve been on my computer journey, starting as a child drawn to con
 
 I pursue stable s/w with the best decisions and thoughtful compromises.
 
+I lead the **Engineering & Arts** team. (AZ - Args & EnZ(g)in)
+
 - [Contact](mailto:piyrw9754@gmail.com)
 - [About Me](https://cheerful-icicle-8c1.notion.site/Hope-Kim-25a253c5458a80958ccfcb0bda00ef21?pvs=74)
 
