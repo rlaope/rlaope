@@ -13,8 +13,12 @@ I pursue stable s/w with the best decisions and thoughtful compromises.
 - [https://rlaope.en.com](https://cheerful-icicle-8c1.notion.site/Hope-Kim-25a253c5458a80958ccfcb0bda00ef21?pvs=74)
 - [linkedin](https://www.linkedin.com/in/esperer/)
 
-**My Side Projects**
+**My Side Projects.**
 - [mexporter](https://github.com/rlaope-lab/mexporter)
-- [redis-perf](https://github.com/rlaope/redis-perf)  
-- [redis-tree](https://github.com/rlaope/redis-tree)
-- [redis-monitoring](https://github.com/rlaope/redis-monitoring)
+- [dotori](https://github.com/Team-Ampersand/Dotori-server-V2)
+- [squirrel](https://github.com/Team-Ampersand/Squirrel)
+- [rest-cmd](https://github.com/rlaope/remote-cmd)
+- **redis-lab**
+  - [redis-perf](https://github.com/rlaope/redis-perf)
+  - [redis-tree](https://github.com/rlaope/redis-tree) 
+  - [redis-monitoring](https://github.com/rlaope/redis-monitoring)
