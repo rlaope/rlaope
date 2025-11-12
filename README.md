@@ -1,6 +1,6 @@
 ### Hope Kim. (Developer)
 
-I’m a developer combining `art` and `engineering`.
+#### I’m a developer combining `art` and `engineering`.
 
 Since 2014, I’ve been on my computer journey, starting as a child drawn to console.
 
