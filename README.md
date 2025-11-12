@@ -1,6 +1,6 @@
-### Hope Kim.
+### Hi, I'm Hope Kim.
 
-#### Developer & Engineer
+#### Developer (Art & Engineering)
 
 I’m a developer combining `art` and `engineering`.
 
