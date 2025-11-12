@@ -16,6 +16,6 @@ I pursue stable s/w with the best decisions and thoughtful compromises.
 - [mxporter.ai](https://github.com/rlaope-lab/mexporter)
 - [dotori](https://github.com/Team-Ampersand/Dotori-server-V2)
 - [squirrel](https://github.com/Team-Ampersand/Squirrel)
-- [rest$cmd](https://github.com/rlaope/remote-cmd)
+- [restcmd](https://github.com/rlaope/remote-cmd)
 - [redis-perf](https://github.com/rlaope/redis-perf)
 - [redis-tree](https://github.com/rlaope/redis-tree) 
