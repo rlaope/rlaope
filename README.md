@@ -17,5 +17,4 @@ I pursue stable s/w with the `best decisions` and thoughtful `compromises`.
 - [systools](https://github.com/rlaope-lab/systools)
 - [redis-perf](https://github.com/rlaope/redis-perf)
 - [restcmd](https://github.com/rlaope/remote-cmd)
-- [dotori](https://github.com/Team-Ampersand/Dotori-server-V2)
-- [squirrel](https://github.com/Team-Ampersand/Squirrel)
+- [dotori](https://github.com/Team-Ampersand/Dotori-server-V2) & [squirrel](https://github.com/Team-Ampersand/Squirrel)
