@@ -19,3 +19,5 @@ I pursue stable s/w with the `best decisions` and thoughtful `compromises`.
 - [mascot](https://github.com/rlaope/mascot)
 - [restcmd](https://github.com/rlaope/remote-cmd)
 - [dotori](https://github.com/Team-Ampersand/Dotori-server-V2) & [squirrel](https://github.com/Team-Ampersand/Squirrel)
+
+> Interest in jvm, gc, k8s, site reliability engineering
