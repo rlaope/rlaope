@@ -8,6 +8,8 @@ Since 2014, I’ve been on my computer journey, starting as a child drawn to con
 
 I pursue stable s/w with the `best decisions` and thoughtful `compromises`. ✨ 
 
+I Interest in SRE, JVM, K8s, Network, AI(ML/DL) 📖
+
 #### Side Projects.
 - [mxporter.ai](https://github.com/rlaope-lab/mexporter)
 - [systools](https://github.com/rlaope-lab/systools)
@@ -16,4 +18,3 @@ I pursue stable s/w with the `best decisions` and thoughtful `compromises`. ✨
 - [restcmd](https://github.com/rlaope/remote-cmd)
 - [dotori](https://github.com/Team-Ampersand/Dotori-server-V2) & [squirrel](https://github.com/Team-Ampersand/Squirrel)
 
-I Interest in Network, SRE, JVM, K8s, AI(ML/DL) 📖
