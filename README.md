@@ -6,11 +6,7 @@ I’m a developer combining `art` and `engineering`.
 
 Since 2014, I’ve been on my computer journey, starting as a child drawn to console.
 
-I pursue stable s/w with the `best decisions` and thoughtful `compromises`.
-
-*Please take a look at my profile and website.* ✨  
-- [hopekim.developer.com](https://cheerful-icicle-8c1.notion.site/Hope-Kim-25a253c5458a80958ccfcb0bda00ef21?pvs=74)
-- [rlaope/estudy](https://github.com/rlaope/estudy) 
+I pursue stable s/w with the `best decisions` and thoughtful `compromises`. ✨ 
 
 #### Side Projects.
 - [mxporter.ai](https://github.com/rlaope-lab/mexporter)
