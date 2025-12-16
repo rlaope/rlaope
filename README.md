@@ -16,4 +16,4 @@ I pursue stable s/w with the `best decisions` and thoughtful `compromises`. ✨
 - [restcmd](https://github.com/rlaope/remote-cmd)
 - [dotori](https://github.com/Team-Ampersand/Dotori-server-V2) & [squirrel](https://github.com/Team-Ampersand/Squirrel)
 
-*I Interest in Network, SRE, JVM, K8s, Cloud*
+*I Interest in Network, SRE, JVM, K8s, AI(ML/DL)*
