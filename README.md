@@ -14,6 +14,7 @@ I Interest in SRE, JVM, K8s, Network, AI(ML/DL) 📖
 - [mxporter.ai](https://github.com/rlaope-lab/mexporter)
 - [systools](https://github.com/rlaope-lab/systools)
 - [redis-perf](https://github.com/rlaope/redis-perf)
+- [finnect](https://github.com/rlaope/finnect)
 - [mascot](https://github.com/rlaope/mascot)
 - [restcmd](https://github.com/rlaope/remote-cmd)
 - [dotori](https://github.com/Team-Ampersand/Dotori-server-V2) & [squirrel](https://github.com/Team-Ampersand/Squirrel)
