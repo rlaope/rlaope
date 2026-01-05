@@ -17,5 +17,5 @@ I Interest in SRE, JVM, K8s, Network, AI(ML/DL) 📖
 - [finnect](https://github.com/rlaope/finnect)
 - [mascot](https://github.com/rlaope/mascot)
 - [restcmd](https://github.com/rlaope/remote-cmd)
-- [dotori](https://github.com/Team-Ampersand/Dotori-server-V2) & [squirrel](https://github.com/Team-Ampersand/Squirrel)
+- [dotori](https://github.com/Team-Ampersand/Dotori-server-V2) [squirrel](https://github.com/Team-Ampersand/Squirrel)
 
