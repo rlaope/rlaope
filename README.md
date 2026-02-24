@@ -2,6 +2,8 @@
 
 <p align="center">
   <a href="https://www.instagram.com/rlaope/">
-    <img src="./rlaopedesignto.jpg" />
+    <img src="./rlaope" 
+         style="width: auto; height: 80vh; object-fit: cover; object-position: bottom; display: block;" 
+         alt="rlaope design">
   </a>
 </p>
