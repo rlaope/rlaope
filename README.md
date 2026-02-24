@@ -1,4 +1,6 @@
-<p align="center"><a target="_blank" href="https://rlaope.github.io/design.html" style="text-decoration:none"><b>✨ design me</b></a></p>
+<p align="center"><a target="_blank" href="https://rlaope.github.io/design.html" style="text-decoration:none"><b>design me</b></a></p>
+
+<p align="center"><a target="_blank" href="https://rlaope.github.io" style="text-decoration:none"><b>developer</b></a></p>
 
 <p align="center">
   <a href="https://www.instagram.com/rlaope/">
@@ -7,3 +9,9 @@
          alt="rlaope design">
   </a>
 </p>
+
+<div align="center">
+
+[contact](mailto:piyrw9754@gmail.com)
+
+</div>
