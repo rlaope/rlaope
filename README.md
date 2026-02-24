@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://www.instagram.com/rlaope/">
-    <img src="./rlaopedesign.png" />
+    <img src="./rlaopedesignto.png" />
   </a>
 </p>
