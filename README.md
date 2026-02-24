@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.instagram.com/rlaope/">
     <img src="./rlaopeimg.png" 
-         style="width: auto; height: 98vh; object-fit: cover; object-position: bottom; display: block;" 
+         style="width: auto; height: 100vh; object-fit: cover; object-position: bottom; display: block;" 
          alt="rlaope design">
   </a>
 </p>
