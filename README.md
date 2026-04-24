@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.instagram.com/rlaope/">
     <img src="https://github.com/user-attachments/assets/9819d3df-7080-424e-aeab-fdc4d47dafee" 
-         style="width: auto; height: 55vh; object-fit: cover; object-position: bottom; display: block;" 
+         style="width: auto; height: 50vh; object-fit: cover; object-position: bottom; display: block;" 
          alt="rlaope design">
   </a>
 </p>
