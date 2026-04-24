@@ -14,7 +14,7 @@ Difficult problems are more fun. I work like an AI and create art like a human.
 ## Industry
 
 ### Team Art & Engineering (2026. 03 ~ NOW)
- 
+
 Guided by the belief that innovation stems from the union of high-level engineering and beautiful art.
 
 Working with the goal of eliminating accessibility barriers for both artists and engineers.
