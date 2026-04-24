@@ -1,5 +1,5 @@
 <p align="center" style="color: #444444;">
-  Do art & engineering.
+  art & engineering.
 </p>
 
 
@@ -12,6 +12,12 @@
 </p>
 
 
-<p align="center"><a target="_blank" href="https://rlaope.github.io" style="text-decoration:none"><b>engineer</b></a></p>
+<p align="center">
+  <a href="https://github.com/rlaope/rlaope/blob/main/RESUME.md"><strong>RESUME</strong></a> | <a href="https://github.com/rlaope/rlaope/blob/main/CV.md"><strong>CV</strong></a>
+</p>
+
+<p align="center"><a target="_blank" href="https://rlaope.github.io" style="text-decoration:none"><b>Engineer</b></a></p>
+
 
 <p align="center"><a target="_blank" href="mailto:piyrw9754@gmail.com" style="text-decoration:none"><b>contact</b></a></p>
+
