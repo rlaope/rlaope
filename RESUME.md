@@ -101,8 +101,6 @@ CarpeDiem. Developer Mindset. [Link.](https://github.com/rlaope/estudy/blob/mast
 
 SW Meister HighSchool Developer Conference. [Link.](https://www.youtube.com/watch?v=QMPTSKB62RI)
 
-<br>
-
 ## Project.
 
 - [Argus](https://github.com/rlaope/Argus) — JVM Observabiltiy Orchestration Tools.
@@ -116,9 +114,6 @@ SW Meister HighSchool Developer Conference. [Link.](https://www.youtube.com/watc
 - [tcp-css-loadtest](https://github.com/rlaope/tcp-css-loadtest) — Financial TCP Protocol Mock Server
 - [TatVTON](https://github.com/art8engine/TatVTON) — Diffusion-based Tattoo Virtual Try-On
 - [translator](https://github.com/rlaope/translator) — Multilingual LLM Accuracy Benchmark & Auto-Translator
-
-
-<br>
 
 ## Contributes.
 
