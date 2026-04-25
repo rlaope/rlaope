@@ -1,5 +1,7 @@
 # Hope Kim
 
+> S/W Engineer
+
 I enjoy exploring the essence of technology.
 
 Difficult problems are more fun.
