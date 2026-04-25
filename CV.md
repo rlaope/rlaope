@@ -2,7 +2,9 @@
 
 I enjoy exploring the essence of technology.
 
-Difficult problems are more fun. I work like an AI and create art like a human.
+Difficult problems are more fun.
+
+I work like an AI and create art like a human.
 
 [My Website - rlaope](https://rlaope.github.io/)
 
