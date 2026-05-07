@@ -19,5 +19,5 @@
 <p align="center"><a target="_blank" href="https://rlaope.github.io" style="text-decoration:none"><b>Engineer</b></a></p>
 
 
-<p align="center"><a target="_blank" href="mailto:piyrw9754@gmail.com" style="text-decoration:none"><b>contact</b></a></p>
+<p align="center"><a target="_blank" href="mailto:piyrw9754@gmail.com" style="text-decoration:none"><b>Contact</b></a></p>
 
