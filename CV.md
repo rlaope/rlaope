@@ -137,6 +137,6 @@ SW Meister HighSchool Developer Conference. [Link.](https://www.youtube.com/watc
 ## Etc.
 
 - [Yotube - ArtEngine](https://www.youtube.com/@art8engine/featured)
-- [OpenModel](https://www.instagram.com/open.model.ai/)
+- [Art Engineer](https://www.instagram.com/art8engine/)
 - [estudy - Blog](https://github.com/rlaope/estudy) - Recommend! ✨
 - [Team Art & Engineering](https://github.com/art8engine)
