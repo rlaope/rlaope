@@ -37,9 +37,9 @@ AI Reasearch, AI Product 개발, [Design](https://rlaope.github.io/design.html) 
 
 - JVM Monitoring, AI 이상 탐지 프로덕트 개발
 - A Simple 소설 작성 Desktop App 개발
-- akira-diffusion JP 풍 그림체 모델 개발 (ING)
-- toon-generator 대화형 인공지능 기반 만화 생성 웹서비스 개발 (ING)
-- 다양한 AI 기반 프로덕트들 개발
+- claude code twitter, reddit, github mail helper plugin 개발
+- AI 기반 인터렉션, Web/App 서비스 개발
+- 자유 주제에서의 AI 기반 프로덕트들을 개발
 
 ---
 
@@ -109,6 +109,8 @@ SW Meister HighSchool Developer Conference. [Link.](https://www.youtube.com/watc
 
 - [Argus](https://github.com/rlaope/Argus) — JVM Observabiltiy Orchestration Tools.
 - [kar98k](https://github.com/rlaope/kar98k) — Go based 24/7 Traffic Simulator and Load Test Tools.
+- [codagent](https://github.com/rlaope/codagent) - Python Framework AI, LLM Agent.
+- [viralman](https://github.com/art8engine/) - Claude Code Plugin, OSS viral helper.
 - [bestwork-agent](https://github.com/rlaope/bestwork-agent) — Bestwork Harness Like Corporation.
 - [claude-code-savant](https://github.com/rlaope/claude-code-savant) — Claude Code Expert Persona Plugin
 - [airML](https://github.com/rlaope/airML) — Python-free ONNX Inference Runtime
