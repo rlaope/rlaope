@@ -109,6 +109,8 @@ SW Meister HighSchool Developer Conference. [Link.](https://www.youtube.com/watc
 
 - [Argus](https://github.com/rlaope/Argus) — JVM Observabiltiy Orchestration Tools.
 - [kar98k](https://github.com/rlaope/kar98k) — Go based 24/7 Traffic Simulator and Load Test Tools.
+- [codagent](https://github.com/rlaope/codagent) - Python Framework AI, LLM Agent.
+- [viralman](https://github.com/art8engine/) - Claude Code Plugin, OSS viral helper.
 - [bestwork-agent](https://github.com/rlaope/bestwork-agent) — Bestwork Harness Like Corporation.
 - [claude-code-savant](https://github.com/rlaope/claude-code-savant) — Claude Code Expert Persona Plugin
 - [airML](https://github.com/rlaope/airML) — Python-free ONNX Inference Runtime
